@@ -1,0 +1,14 @@
+{
+  "threshold": 0.6,
+  "n_features": 18,
+  "act_mw_mean": 337.63201020408167,
+  "act_lp_mean": 0.39412479591836885,
+  "act_mw_std": 48.075150314296124,
+  "act_lp_std": 1.2869454075759714,
+  "metrics": {
+    "accuracy": 0.9772,
+    "precision": 0.9731,
+    "recall": 0.9672,
+    "f1": 0.9701
+  }
+}

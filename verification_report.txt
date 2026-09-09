@@ -1,0 +1,20 @@
+
+--- RandomForest (Default Threshold: 0.5) ---
+Recall: 0.6
+F1: 0.7317073170731707
+
+--- XGBoost (Default Threshold: 0.5) ---
+Recall: 0.28
+F1: 0.4375
+
+--- LightGBM (Default Threshold: 0.5) ---
+Recall: 0.56
+F1: 0.6829268292682927
+
+--- LogisticRegression (Default Threshold: 0.5) ---
+Recall: 0.0
+F1: 0.0
+
+--- SVM (Default Threshold: 0.5) ---
+Recall: 0.0
+F1: 0.0

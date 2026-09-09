@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-02-25T16:12:36.312390",
+    "model": "RandomForest",
+    "input_data": {
+      "mw": 300.2,
+      "logP": 1.5,
+      "charge": 0
+    },
+    "prediction": 0,
+    "prediction_label": "Inactive",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2026-02-25T16:12:36.366195",
+    "model": "RandomForest",
+    "input_data": {
+      "mw": 450.0,
+      "logP": 3.0,
+      "charge": 1
+    },
+    "prediction": 0,
+    "prediction_label": "Inactive",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2026-02-25T16:12:36.426475",
+    "model": "RandomForest",
+    "input_data": {
+      "mw": 250.0,
+      "logP": 0.5,
+      "charge": -1
+    },
+    "prediction": 0,
+    "prediction_label": "Inactive",
+    "confidence": 1.0
+  }
+]
